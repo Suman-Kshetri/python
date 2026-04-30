@@ -1,0 +1,7 @@
+2026-04-30 01:26:19,925 DEBUG price = 100, tax_rate = 0.1
+2026-04-30 01:26:19,925 DEBUG total = 200.1
+2026-04-30 01:26:19,925 DEBUG debug message
+2026-04-30 01:26:19,925 INFO info message
+2026-04-30 01:26:19,925 WARNING warning message
+2026-04-30 01:26:19,925 ERROR error message
+2026-04-30 01:26:19,925 CRITICAL critical message

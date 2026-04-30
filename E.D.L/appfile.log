@@ -1,0 +1,5 @@
+2026-04-30 01:24:20,982 DEBUG debug message
+2026-04-30 01:24:20,982 INFO info message
+2026-04-30 01:24:20,982 WARNING warning message
+2026-04-30 01:24:20,982 ERROR error message
+2026-04-30 01:24:20,982 CRITICAL critical message
